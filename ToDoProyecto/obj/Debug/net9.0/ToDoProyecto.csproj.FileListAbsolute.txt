@@ -1,0 +1,15 @@
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\bin\Debug\net9.0\ToDoProyecto.exe
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\bin\Debug\net9.0\ToDoProyecto.deps.json
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\bin\Debug\net9.0\ToDoProyecto.runtimeconfig.json
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\bin\Debug\net9.0\ToDoProyecto.dll
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\bin\Debug\net9.0\ToDoProyecto.pdb
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.AssemblyInfoInputs.cache
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.AssemblyInfo.cs
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.sourcelink.json
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.dll
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\refint\ToDoProyecto.dll
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.pdb
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ToDoProyecto.genruntimeconfig.cache
+C:\Users\santiago chavez\OneDrive\Documents\PROYECTOS\.NET\ToDoProyecto\obj\Debug\net9.0\ref\ToDoProyecto.dll
